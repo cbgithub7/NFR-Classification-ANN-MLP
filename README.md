@@ -55,5 +55,5 @@ This project demonstrates the application of neural networks in text classificat
 
 ## Accreditation
 
-The neural network implementation in this project was inspired by a design for a chatbot provided in a blog post. Unfortunately, the original source code is no longer accessible, and the author's name is unknown. We acknowledge the contribution of the original work to the development of this project.
+The neural network implementation in this project draws inspiration from a blog post titled ["A Neural Network in Python, Part 2"](https://iamtrask.github.io//2015/07/27/python-network-part2/) by Andrej Karpathy. The blog post provides insights into building neural networks using Python and serves as a valuable resource for understanding the underlying concepts. We express our gratitude to Andrej Karpathy for sharing this knowledge and contributing to the development of this project.
 
