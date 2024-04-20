@@ -52,3 +52,8 @@ The notebook provides insights into the model's performance through evaluation m
 ## Conclusion
 
 This project demonstrates the application of neural networks in text classification tasks. By leveraging techniques such as data preprocessing, model training, and cross-validation, it showcases a systematic approach to building and evaluating NLP models.
+
+##Accreditation
+
+The neural network implementation in this project was inspired by a design for a chatbot provided in a blog post. Unfortunately, the original source code is no longer accessible, and the author's name is unknown. We acknowledge the contribution of the original work to the development of this project.
+
